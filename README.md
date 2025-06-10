@@ -1,7 +1,7 @@
 # Predicting Injury-Causing Road Accidents in Latvia
 
-Road-traffic injuries represent one of Latvia’s most pressing publics‐health challenges. Over the period 2013–2024, police records document 388 480 crashes, of which nearly 93 percent result in no personal injury—but the  remaining 7 percent (~28 000 incidents per year) inflict minor to fatal harm 
-on drivers, passengers, and pedestrians. Beyond the immediate human toll,these injury-causing collisions burden emergency services, drive up insurance payouts, and incur long-term societal costs. in this project, we pursue three intertwined goals:
+*Road-traffic injuries represent one of Latvia’s most pressing publics‐health challenges. Over the period 2013–2024, police records document 388 480 crashes, of which nearly 93 percent result in no personal injury—but the  remaining 7 percent (~28 000 incidents per year) inflict minor to fatal harm 
+on drivers, passengers, and pedestrians. Beyond the immediate human toll,these injury-causing collisions burden emergency services, drive up insurance payouts, and incur long-term societal costs. in this project, we pursue three intertwined goals:*
      1. Predictive: Develop a machine‐learning classifier that, given the 
 circumstances of a crash (driver age, time of day, alcohol 
 involvement, and environmental conditions), can flag whether it will 
